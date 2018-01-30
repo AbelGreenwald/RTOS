@@ -1,0 +1,7 @@
+BUILD/**
+*.hex
+*.o
+*.bin
+*.elf
+*.d
+*.ld
